@@ -1,0 +1,248 @@
+Uri: http://hesap.zulaoyun.com/icons/icon-96x96.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\icons\icon-96x96.png
+Content Type: image/png
+
+Uri: http://hesap.zulaoyun.com/PageNotFound
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\PageNotFound.html
+Content Type: text/html
+
+Uri: http://img.zulaoyun.com/sitecdn/TR/Content/images/favicon-v2.ico
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\images\favicon-v2.ico
+Content Type: image/x-icon
+
+Uri: http://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://cdn.efilli.com/efl.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\efl.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&subset=latin-ext
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzc.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc9.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc9.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/fonts/Evogria.otf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\fonts\Evogria.otf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/fonts/EvogriaItalic.otf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\fonts\EvogriaItalic.otf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/css/libraries/bootstrap/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\css\libraries\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/css/libraries/fontawesome/all.min.css
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\css\libraries\fontawesome\all.min.css
+Content Type: text/css
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/css/login.min.css
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\css\login.min.css
+Content Type: text/css
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/css/style.min.css
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\css\style.min.css
+Content Type: text/css
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/fonts/fontawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/btn-tab-next.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\btn-tab-next.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/form-indir-btn-bg.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\form-indir-btn-bg.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/giris-yap-btn-bg.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\giris-yap-btn-bg.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/kayit-ol-bg.jpg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\kayit-ol-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/kayitol-btn-bg.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\kayitol-btn-bg.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/loginform-bg.jpg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\loginform-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/modal-giftcode-bg.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\modal-giftcode-bg.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/images/takim-destekle-banner-bg.png
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\images\takim-destekle-banner-bg.png
+Content Type: image/png
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/fsjs.min.js?v=20220209
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\fsjs.min.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/libraries/bootstrap/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\libraries\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/libraries/jquery/jquery.lazy.min.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\libraries\jquery\jquery.lazy.min.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/libraries/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\libraries\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/libraries/jquery/jquery.validate.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\libraries\jquery\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/libraries/jquery/jquery.validate.unobtrusive.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\libraries\jquery\jquery.validate.unobtrusive.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/js/site.min.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\js\site.min.js
+Content Type: application/javascript
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/vendor/f/fonts/icomoon.eot?8d2fgv
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\vendor\f\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/vendor/f/fonts/icomoon.svg?8d2fgv
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\vendor\f\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/vendor/f/fonts/icomoon.ttf?8d2fgv
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\vendor\f\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/vendor/f/fonts/icomoon.woff?8d2fgv
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\vendor\f\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://img.zulaoyun.com/sitecdn/TR/Content/hesapzulaoyun/vendor/f/style.css
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdn\TR\Content\hesapzulaoyun\vendor\f\style.css
+Content Type: text/css
+
+Uri: https://img.zulaoyun.com/sitecdntest/TR/Content/hesapzulaoyun/images/bg-v2-page.jpg
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\sitecdntest\TR\Content\hesapzulaoyun\images\bg-v2-page.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\hesap.zulaoyun.com\recaptcha\api.js
+Content Type: text/javascript
+
